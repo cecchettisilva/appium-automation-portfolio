@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "appium": "^2.5.4"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^3.5.2",
+    "webdriverio": "^8.38.0"
+  },
+  "name": "appium-automation-portfolio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecchettisilva/appium-automation-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecchettisilva/appium-automation-portfolio/issues"
+  },
+  "homepage": "https://github.com/cecchettisilva/appium-automation-portfolio#readme"
+}
